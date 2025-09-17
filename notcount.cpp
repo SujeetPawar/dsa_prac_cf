@@ -25,7 +25,7 @@ int main() {
                 ans = i;
                 break;
             }
-            cur += x; 
+            cur += cur; 
         }
 
         cout << ans << endl;
