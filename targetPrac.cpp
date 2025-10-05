@@ -39,7 +39,7 @@ int main()
                     total += pointsTable[i][j];
             }
         }
-        cout << total << endl;
+        cout << total << endl;w
     }
 
     return 0;
